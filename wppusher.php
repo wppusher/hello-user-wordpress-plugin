@@ -4,7 +4,7 @@ return array(
 
     // Each string will be passed to the shell as a command.
     'commands' => array(
-        'composer install',
+        'touch tmp.file',
     ),
 
     // Defaults to true and is not required.
